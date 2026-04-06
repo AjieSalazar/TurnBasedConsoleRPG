@@ -11,5 +11,5 @@ ActionResult Mage::useSkill()
 {
 
     Player::useSkill(); 
-    return  ActionResult{ ActionResult::Type::Damage, 40 };
+    return  ActionResult{ ActionResult::Type::Damage, 40};
 }
