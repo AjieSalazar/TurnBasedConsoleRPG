@@ -39,9 +39,6 @@
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Slime.cpp" />
     <ClCompile Include="StoneGolem.cpp" />
-    <ClCompile Include="test_character.cpp" />
-    <ClCompile Include="test_enemy.cpp" />
-    <ClCompile Include="test_player.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
