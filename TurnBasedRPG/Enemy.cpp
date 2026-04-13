@@ -18,6 +18,7 @@ void Enemy::reduceToughness(int amount)
     if (m_toughness == 0)
     {
         m_isBroken = true;
+
         m_toughness = m_maxToughness; // reset for the next cycle
     }
 }
